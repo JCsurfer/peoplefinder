@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peoplefinder/static/css/main.cff729f3.chunk.css",
+    "main.js": "/peoplefinder/static/js/main.05e29e71.chunk.js",
+    "main.js.map": "/peoplefinder/static/js/main.05e29e71.chunk.js.map",
+    "runtime~main.js": "/peoplefinder/static/js/runtime~main.e64f1b2b.js",
+    "runtime~main.js.map": "/peoplefinder/static/js/runtime~main.e64f1b2b.js.map",
+    "static/js/2.1e4a2dbe.chunk.js": "/peoplefinder/static/js/2.1e4a2dbe.chunk.js",
+    "static/js/2.1e4a2dbe.chunk.js.map": "/peoplefinder/static/js/2.1e4a2dbe.chunk.js.map",
+    "index.html": "/peoplefinder/index.html",
+    "precache-manifest.7910fc0906495550e1d10ff8c2f5475b.js": "/peoplefinder/precache-manifest.7910fc0906495550e1d10ff8c2f5475b.js",
+    "service-worker.js": "/peoplefinder/service-worker.js",
+    "static/css/main.cff729f3.chunk.css.map": "/peoplefinder/static/css/main.cff729f3.chunk.css.map"
+  }
+}
